@@ -1,2 +1,7 @@
-.gitignore
+# Виртуальное окружение
 .venv/
+venv/
+env/
+ENV/
+
+.idea
